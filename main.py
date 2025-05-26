@@ -1,6 +1,6 @@
 import requests
 
-api_key = "92251c62b725a9e9a5daace6442334a1"
+api_key = "apikey"
 dict_user_amt = {}
 dict_converted_amt = {}
 list_curr = []
